@@ -10,6 +10,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Build/Dot Connect.loader.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="2qqlQJ4SVZi9qducoG0As841xbB" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
@@ -30,7 +38,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735397995813</updated>
-      <workItem from="1735398013327" duration="319000" />
+      <workItem from="1735398013327" duration="857000" />
     </task>
     <servers />
   </component>
@@ -41,5 +49,11 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="503" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1735398836484">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="503" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1735398836484" />
   </component>
 </project>

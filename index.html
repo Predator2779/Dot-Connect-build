@@ -51,6 +51,15 @@
         </div>
     </div>
 
+    <script>
+        YaGames
+            .init()
+            .then(ysdk => {
+                console.log('Yandex SDK initialized');
+                window.ysdk = ysdk;
+            });
+    </script>
+    
     <!-- Additional body modules -->
 
     <script>
